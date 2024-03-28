@@ -44,19 +44,19 @@
 //        DEFINITIONS           //
 // ============================ //
 
-// You can write struct definitions here...
+// can write struct definitions here...
 
 // ============================ //
 //          GLOBALS             //
 // ============================ //
 
-// You can write globals definitions here...
+// can write globals definitions here...
 
 // ============================ //
 //          FUNCTIONS           //
 // ============================ //
 
-// You can write function definitions here...
+// can write function definitions here...
 
 // ============================ //
 //   INTERRUPT SERVICE ROUTINE  //
