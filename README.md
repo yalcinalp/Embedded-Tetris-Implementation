@@ -1,23 +1,23 @@
 # Assembly-Tetris
 Tetris Game Implementation in Assembly for the LED board of PICKit (Under Construction)
 
-Device:  
+# Device:  
 
 ![image](https://github.com/yalcinalp/Assembly-Tetris/assets/95969634/d700872b-76cb-4cf2-bafd-2614f9b04cf8)
 
-Display:  
+# Display:  
 
 ![image](https://github.com/yalcinalp/Assembly-Tetris/assets/95969634/947ae16f-bbc1-4a15-b3b9-ed6c7a3032fc)
 
-Shapes of the Tetris game:  
+# Shapes of the Tetris game:  
 
 ![image](https://github.com/yalcinalp/Assembly-Tetris/assets/95969634/6b4746be-1d87-40bb-8ab5-2b9aebadbb77)
 
-Rotation order:  
+# Rotation order:  
 
 ![image](https://github.com/yalcinalp/Assembly-Tetris/assets/95969634/c6cd3dcd-bc25-4510-903e-079f6244b279)
 
-Example Runtime: 
+# Example Runtime: 
 
 ![image](https://github.com/yalcinalp/Assembly-Tetris/assets/95969634/433364ca-5b72-4e76-98c0-9af641632154)
 
