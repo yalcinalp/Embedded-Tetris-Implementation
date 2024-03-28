@@ -1,7 +1,9 @@
 # Assembly-Tetris
-Tetris Game Implementation in Assembly for the LED board of PICKit
+Tetris Game Implementation in Assembly for the LED board of PICKit (Under Construction)
 
 Device:  
+
+![image](https://github.com/yalcinalp/Assembly-Tetris/assets/95969634/d700872b-76cb-4cf2-bafd-2614f9b04cf8)
 
 Display:  
 
