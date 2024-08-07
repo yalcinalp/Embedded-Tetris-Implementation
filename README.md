@@ -1,5 +1,5 @@
 # Embedded-Tetris  
-Tetris Game Implementation in C for the LED board of PICKit
+Tetris Game Implementation in C (for the LED board of PICKit)
 
 # Device:  
 
